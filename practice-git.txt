@@ -5,3 +5,7 @@ I like to play video games
 I have created a branch named: "mock-branch"
 
 This is another commit on mock-branch
+
+Now i am trying squash-merge
+
+This is another commit for squash-merge
