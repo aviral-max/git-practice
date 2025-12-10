@@ -10,4 +10,4 @@ Now i am trying squash-merge
 
 This is another commit for squash-merge
 
-This commit will also be reverted (for --no-commit git revert and fixing it in a new branch and then merging it)
+This reverted 60da417 commit is fixed!
